@@ -1,4 +1,4 @@
-import { UserState, UserAction, UserActionTypes } from "../../types/todo"
+import { UserState, UserAction, UserActionTypes } from "../../types/user"
 
 
 
